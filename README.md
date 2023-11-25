@@ -1,5 +1,5 @@
-### Hi there 👋
-# 💫 About Me:
+# Hi there 👋
+## 💫 About Me:
 
 
 👨‍💻:  I am a CSE undergrad <br>🌱 I’m a MERN Stack web developer <br>⚡ Fun fact - I made several projects and am also a competitive programmer, active on various coding platforms
