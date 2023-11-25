@@ -1,7 +1,8 @@
 ### Hi there 👋
 # 💫 About Me:
 
-👨‍💻 I am a [Your Degree or Field of Study] student <br>🌱 I’m [Your Expertise or Current Learning Path] <br>⚡ Fun fact - [Interesting Fact About You]
+
+👨‍💻:  I am a CSE undergrad <br>🌱 I’m a MERN Stack web developer <br>⚡ Fun fact - I made several projects and am also a competitive programmer, active on various coding platforms
 
 ---
 
