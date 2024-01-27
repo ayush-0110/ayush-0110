@@ -1,4 +1,6 @@
 # Hi there 👋
+![pika](https://github.com/ayush-0110/ayush-0110/assets/85434037/14f6dcf9-0de9-4faf-859a-ced7e749b4aa)
+
 ## 💫 About Me:
 
 
